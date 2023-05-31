@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+	<content>
+		<email>melayadarwin@gmail.com</email>
+		<number>09319951006</number>
+
+		<marindu>MARINDU</marindu>
+		<span>QUE</span>
+
+		<grid>Blog Grid</grid>
+		<detail>Blog Detail</detail>
+		<destination>Destination</destination>
+		<guide>Travel Guides</guide>
+		<testimonial>Testimonial</testimonial>
+
+		<!-- TITLE PAGE -->
+
+		<about1>PAGES</about1>
+		<home>Home</home>
+		<about1>PAGES</about1>
+
+		<!-- FOOTER -->
+
+		
+		<footer>
+			<marindu>MARINDU</marindu>
+			<span>QUE</span>
+			<marinduque>Marinduque, a tropical island paradise in the Philippines, offers pristine beaches, lush landscapes, and a rich cultural heritage. Immerse yourself in its tranquil beauty, explore vibrant coral reefs, and experience warm hospitality in this captivating destination.</marinduque>
+			<folow>Follow Us</folow>
+
+			<our>Our Services</our>
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<blog>Blog</blog>
+
+			<!-- USEFULL LINKS -->
+
+			<usefull>Usefull Links</usefull>
+			<!-- 
+			
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<bolg>Blog</bolg>
+
+			-->
+			
+			<!-- CONTACT US -->
+
+			<contact>Contact Us</contact>
+			<address>Apitong, Boac, Marinduque</address>
+			<number>+012 345 67890</number>
+			<email>melayadarwin@gmail.com</email>
+			<newsletter>Newsletter</newsletter>
+			<sign>Sign Up</sign>
+
+		</footer>
+
+
+
+	</content>
+</body>

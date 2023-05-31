@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+	<content>
+		<email>melayadarwin@gmail.com</email>
+		<number>09319951006</number>
+		
+		<home>Home</home>
+		<about>About</about>
+		<services>Services</services>
+		<tour>Tour Packages</tour>
+		<pages>Pages</pages>
+		<contact>Contact</contact>
+
+		<!-- TITLE PAGE -->
+
+		<about1>Services</about1>
+		<home>Home</home>
+		<about1>Services</about1>
+
+		<!-- DESTINATION -->
+
+		<destination>Destination</destination>
+		<option1>Boac</option1>
+		<option2>Mogpog</option2>
+		<option3>Sta Cruz</option3>
+		<option4>Torrijos</option4>
+		<option5>Buenavista</option5>
+		<option6>Gasan</option6>
+
+		<!-- DURATION -->
+
+		<duration>Duration</duration>
+		<duration1>Duration 1</duration1>
+		<duration2>Duration 2</duration2>
+		<duration3>Duration 3</duration3>
+
+		<submit>Submit</submit>
+
+
+
+		<!-- SERVICES -->
+
+		<service>Services</service>
+		<tours>Tours and Travel Services</tours>
+		
+		<guide>Travel Guide</guide>
+		<your>Your ultimate travel companion providing expert guidance and insider tips for unforgettable journeys.</your>
+
+		<ticket>Ticket Booking</ticket>
+		<effort>Effortlessly book your travel tickets with ease and convenience, ensuring a seamless and hassle-free journey.</effort>
+
+		<hotel>Hotel Booking</hotel>
+		<find>Find and reserve your perfect accommodation effortlessly, guaranteeing a comfortable and enjoyable stay.</find>
+
+
+		<!-- TESTIMONIAL -->
+
+
+		<testimonial>Testimonial</testimonial>
+		<clients>What Say Our Clients</clients>
+
+		<comment1>Your travel guide exceeded our expectations! Invaluable recommendations and detailed attraction descriptions made our trip remarkable. Navigating our destination was a breeze with your helpful tips on local customs and hidden gems. Thank you for enhancing our travel experience and making it unforgettable!</comment1>
+		<apple>Apple Rajah</apple>
+		<profession1>Profession</profession1>
+
+		<comment2>Your travel guide was a game-changer! It curated the best attractions, activities, and dining options, helping us maximize our time and explore the highlights effortlessly. The spot-on recommendations led us to hidden gems we wouldn't have discovered otherwise. Thanks to your guide, our trip was truly memorable and our travel experience was elevated to a whole new level.</comment2>
+		<mic>Michaela Melaya</mic>
+		<profession2>Profession</profession2>
+
+		<comment3>Your exceptional travel guide was a comprehensive resource that covered everything we needed, from transportation options to local customs. The detailed descriptions and practical tips made navigating the destination a breeze. We felt well-prepared and confident, thanks to the valuable insights your guide provided. It played a significant role in making our trip hassle-free and enjoyable. We can't thank you enough!</comment3>
+		<angie>Angiela Melaya</angie>
+		<profession3>Profession</profession3>
+
+		<comment4>Your travel guide was a lifesaver! It provided accurate and up-to-date information on accommodations, transportation, and attractions. The well-organized itineraries and suggested routes made planning our days effortless. Your personal touch and attention to detail in the recommendations were fantastic. Our trip wouldn't have been as successful without your expert guidance. We highly recommend your travel guide to anyone visiting our destination!</comment4>
+		<anne>Princess Anne Ropa</anne>
+		<profession4>Profession</profession4>
+
+		
+		<!-- FOOTER -->
+
+		
+		<footer>
+			<marindu>MARINDU</marindu>
+			<span>QUE</span>
+			<marinduque>Marinduque, a tropical island paradise in the Philippines, offers pristine beaches, lush landscapes, and a rich cultural heritage. Immerse yourself in its tranquil beauty, explore vibrant coral reefs, and experience warm hospitality in this captivating destination.</marinduque>
+			<folow>Follow Us</folow>
+
+			<our>Our Services</our>
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<blog>Blog</blog>
+
+			<!-- USEFULL LINKS -->
+
+			<usefull>Usefull Links</usefull>
+			<!-- 
+			
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<bolg>Blog</bolg>
+
+			-->
+			
+			<!-- CONTACT US -->
+
+			<contact>Contact Us</contact>
+			<address>Apitong, Boac, Marinduque</address>
+			<number>+012 345 67890</number>
+			<email>melayadarwin@gmail.com</email>
+			<newsletter>Newsletter</newsletter>
+			<sign>Sign Up</sign>
+
+		</footer>
+
+
+	</content>
+</body>

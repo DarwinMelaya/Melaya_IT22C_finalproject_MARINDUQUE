@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+	<content>
+		<email>melayadarwin@gmail.com</email>
+		<number>09319951006</number>
+		
+		<marindu>MARINDU</marindu>
+		<span>QUE</span>
+		
+		<home>Home</home>
+		<about>About</about>
+		<services>Services</services>
+		<tour>Tour Packages</tour>
+		<pages>Pages</pages>
+		<contact>Contact</contact>
+
+		<!-- TITLE PAGE -->
+
+		<about1>Packages</about1>
+		<home>Home</home>
+		<about1>Packages</about1>
+
+		<!-- DESTINATION -->
+
+		<destination>Destination</destination>
+		<option1>Boac</option1>
+		<option2>Mogpog</option2>
+		<option3>Sta Cruz</option3>
+		<option4>Torrijos</option4>
+		<option5>Buenavista</option5>
+		<option6>Gasan</option6>
+
+		<!-- DURATION -->
+
+		<duration>Duration</duration>
+		<duration1>Duration 1</duration1>
+		<duration2>Duration 2</duration2>
+		<duration3>Duration 3</duration3>
+
+		<submit>Submit</submit>
+
+		<!-- CONTACT -->
+
+		<contact> Contact </contact>
+		<query>Contact For Any Query</query>
+		<send>Send Message</send>
+
+		<!-- FOOTER -->
+
+		<footer>
+			<marindu>MARINDU</marindu>
+			<span>QUE</span>
+			<marinduque>Marinduque, a tropical island paradise in the Philippines, offers pristine beaches, lush landscapes, and a rich cultural heritage. Immerse yourself in its tranquil beauty, explore vibrant coral reefs, and experience warm hospitality in this captivating destination.</marinduque>
+			<folow>Follow Us</folow>
+
+			<our>Our Services</our>
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<blog>Blog</blog>
+
+			<!-- USEFULL LINKS -->
+
+			<usefull>Usefull Links</usefull>
+			<!-- 
+			
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<bolg>Blog</bolg>
+
+			-->
+			
+			<!-- CONTACT US -->
+
+			<contact>Contact Us</contact>
+			<address>Apitong, Boac, Marinduque</address>
+			<number>+012 345 67890</number>
+			<email>melayadarwin@gmail.com</email>
+			<newsletter>Newsletter</newsletter>
+			<sign>Sign Up</sign>
+
+		</footer>
+
+
+	</content>
+</body>

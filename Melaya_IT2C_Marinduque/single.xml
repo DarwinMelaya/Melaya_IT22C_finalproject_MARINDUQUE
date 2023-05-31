@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+	<content>
+		<email>melayadarwin@gmail.com</email>
+		<number>09319951006</number>
+		
+		<marindu>MARINDU</marindu>
+		<span>QUE</span>
+		
+		<home>Home</home>
+		<about>About</about>
+		<services>Services</services>
+		<tour>Tour Packages</tour>
+		<pages>Pages</pages>
+		<contact>Contact</contact>
+
+
+		<!-- TITLE PAGE -->
+
+		<about1>BLOG DETAIL</about1>
+		<home>Home</home>
+		<about1>BLOG DETAIL</about1>
+
+
+		<!-- DESTINATION -->
+
+		<destination>Destination</destination>
+		<option1>Boac</option1>
+		<option2>Mogpog</option2>
+		<option3>Sta Cruz</option3>
+		<option4>Torrijos</option4>
+		<option5>Buenavista</option5>
+		<option6>Gasan</option6>
+
+		<!-- DURATION -->
+
+		<duration>Duration</duration>
+		<duration1>Duration 1</duration1>
+		<duration2>Duration 2</duration2>
+		<duration3>Duration 3</duration3>
+
+		<submit>Submit</submit>
+
+
+		<!-- BLOG START -->
+
+
+		<date>01</date>
+		<month>Jan</month>
+		
+		<admin>Admin</admin>
+		<tnt>Tours and Travel</tnt>
+		<luzondatum>Luzon Datum: Geodetic reference point in Marinduque description</luzondatum>
+		<luzon>Luzon Datum is a geodetic reference point located in Marinduque. It serves as a crucial landmark for geodetic surveys and mapping in the region. As a reference point, it provides essential coordinates and elevation data used in various geodetic and cartographic applications. Surveyors, mapmakers, and geographers rely on the Luzon Datum to establish accurate spatial references and ensure consistency in geospatial measurements across Marinduque and nearby areas.</luzon>
+		<datum>Luzon Datum, situated in Marinduque, is a fundamental geodetic reference point used as a benchmark for mapping and surveying purposes. This geodetic marker serves as the starting point for determining precise coordinates and elevations in the region. It plays a vital role in aligning maps, establishing boundaries, and conducting geospatial analyses. With its significance in geodetic measurements, the Luzon Datum contributes to accurate positioning, navigation, and spatial data management, making it an essential reference for geospatial professionals and researchers in Marinduque.</datum>
+
+		<paradise>Paradise found: Maniwaya and Mongpong Islands in Marinduque</paradise>
+		<experience>Experience a slice of paradise on Maniwaya and Mongpong Islands in Marinduque. These stunning islands offer a true tropical getaway with their pristine beaches, crystal-clear waters, and breathtaking natural beauty. Dive into the turquoise sea, relax on powdery white sands, and soak up the sun in this idyllic haven. Explore the vibrant marine life through snorkeling or island hopping, or simply unwind in the tranquil surroundings. Maniwaya and Mongpong Islands are a paradise found, promising unforgettable moments and a rejuvenating escape from the hustle and bustle of everyday life.</experience>
+
+		<spectacular>Spectacular views at Bangyawin and Payanas View Deck.</spectacular>
+		<elevate>Elevate your senses with the latest attraction at Bangyawin and Payanas View Deck. This recently enhanced viewpoint offers even more spectacular vistas, thanks to upgraded infrastructure and enhanced viewing platforms. Immerse yourself in the natural beauty of the surroundings as you gaze upon rolling hills, lush valleys, and panoramic landscapes that showcase the untouched splendor of the region. With improved accessibility and comfortable seating areas, you can now fully indulge in the breathtaking scenery and soak up the tranquil ambiance. Whether you're seeking solace, adventure, or simply a moment of serenity, the enhanced Bangyawin and Payanas View Deck promises an unforgettable experience that will leave you in awe of nature's wonders.</elevate>	
+
+
+		<!-- COMMENT LIST START -->
+
+		<comments>3 Comments</comments>
+		
+		<namecom>Angelyn Bobabdilla</namecom>
+		<datecom>01 Jan 2023</datecom>
+		<comment>"Wow, Marinduque is truly a hidden gem in the Philippines! I recently took a tour of the island and I was blown away by its natural beauty. From the crystal-clear waters and pristine beaches to the lush green mountains and charming towns, Marinduque has it all. The locals are friendly and welcoming, making the experience even more memorable. I highly recommend visiting the Boac Cathedral and exploring the stunning Tres Reyes Islands. Marinduque is a must-visit destination for anyone looking for a peaceful and picturesque getaway!"</comment>
+		<reply>Reply</reply>
+
+		<namecom1>Jeaboy Ian Siena</namecom1>
+		<datecom1>01 Feb 2023</datecom1>
+		<comment1>"Marinduque holds a special place in my heart. The tour I took there was an unforgettable journey through rich culture and history. The Moriones Festival, which takes place during Holy Week, is a sight to behold. The vibrant parades and reenactments of biblical events are truly captivating. Besides the festival, I also enjoyed exploring the ancestral houses in Gasan and discovering the island's heritage. The Bellarocca Island Resort is a luxurious retreat with breathtaking views and top-notch amenities. Marinduque offers a perfect blend of cultural immersion and relaxation."</comment1>
+		<reply>Reply</reply>
+
+		<namecom2>Eisen Jorque</namecom2>
+		<datecom2>01 Mar 2023</datecom2>
+		<comment2>"I recently had the pleasure of exploring Marinduque, and it exceeded all my expectations! The Maniwaya Island was my favorite spot, with its pristine white sand beaches and turquoise waters. It's a paradise for beach lovers and water sports enthusiasts. Don't miss the chance to try out snorkeling or diving to witness the vibrant marine life. The Poctoy White Beach is another must-visit, offering stunning sunset views and a laid-back atmosphere. Marinduque's cuisine is also a treat, with delicious seafood dishes and local delicacies that will leave you craving for more. I can't wait to visit again!"</comment2>
+		<reply>Reply</reply>
+
+
+		<!-- COMMENT FORM START -->
+
+		<leavecom>Leave a comment</leavecom>
+
+		<name>Name *</name>
+		<emailcom>Email *</emailcom>
+		<website>Website</website>
+		<message>Message *</message>
+
+
+
+		<!-- AUTOR BIO -->
+
+		<name>Darwin Melaya</name>
+		<info>20 years old, studying at Marinduque State College, taking up a Bachelor of Science in Information Technology (BSIT) course.</info>
+
+
+		<!-- CATEGORY LIST -->
+
+		<category>Categories</category>
+		<web>Web</web>
+
+		<design>Design</design>
+		<number1>150</number1>
+		
+		<development>Development</development>
+		<number2>131</number2>
+
+		<online>Online Marketing</online>
+		<number3>78</number3>
+
+		<keyword>Keyword Research</keyword>
+		<number4>56</number4>
+
+		<market>Email Marketing</market>
+		<number5>98</number5>
+
+
+		<!-- RECENT POST -->
+
+		<recent>Recent Post</recent>
+		
+		<recent1>Diam lorem dolore justo eirmod lorem dolore</recent1>
+		<date1>Jan 01, 2050</date1>
+
+		<recent2>Diam lorem dolore justo eirmod lorem dolore</recent2>
+		<date2>Jan 01, 2050</date2>
+
+		<recent3>Diam lorem dolore justo eirmod lorem dolore</recent3>
+		<date3>Jan 01, 2050</date3>
+
+
+		<!-- TAG CLOUD-->
+
+		<tag>Tag Cloud</tag>
+		<design>Design</design>
+		<development>Development</development>
+		<marketing>Marketing</marketing>
+		<seo>SEO</seo>
+		<writing>Writing</writing>
+		<consulting>Consulting</consulting>
+
+		<!-- FOOTER -->
+
+		<footer>
+			<marindu>MARINDU</marindu>
+			<span>QUE</span>
+			<marinduque>Marinduque, a tropical island paradise in the Philippines, offers pristine beaches, lush landscapes, and a rich cultural heritage. Immerse yourself in its tranquil beauty, explore vibrant coral reefs, and experience warm hospitality in this captivating destination.</marinduque>
+			<folow>Follow Us</folow>
+
+			<our>Our Services</our>
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<blog>Blog</blog>
+
+			<!-- USEFULL LINKS -->
+
+			<usefull>Usefull Links</usefull>
+			<!-- 
+			
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<bolg>Blog</bolg>
+
+			-->
+			
+			<!-- CONTACT US -->
+
+			<contact>Contact Us</contact>
+			<address>Apitong, Boac, Marinduque</address>
+			<number>+012 345 67890</number>
+			<email>melayadarwin@gmail.com</email>
+			<newsletter>Newsletter</newsletter>
+			<sign>Sign Up</sign>
+
+		</footer>
+
+
+	</content>
+</body>

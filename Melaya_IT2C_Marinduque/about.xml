@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<body>
+	<content>
+		<email>melayadarwin@gmail.com</email>
+		<number>09319951006</number>
+		
+		<home>Home</home>
+		<about>About</about>
+		<services>Services</services>
+		<tour>Tour Packages</tour>
+		<pages>Pages</pages>
+		<contact>Contact</contact>
+
+		<!-- TITLE PAGE -->
+
+		<about>About</about>
+		<home>Home</home>
+		<about>About</about>
+
+		<!-- DESTINATION -->
+
+		<destination>Destination</destination>
+		<option1>Boac</option1>
+		<option2>Mogpog</option2>
+		<option3>Sta Cruz</option3>
+		<option4>Torrijos</option4>
+		<option5>Buenavista</option5>
+		<option6>Gasan</option6>
+
+		<!-- DURATION -->
+
+		<duration>Duration</duration>
+		<duration1>Duration 1</duration1>
+		<duration2>Duration 2</duration2>
+		<duration3>Duration 3</duration3>
+
+		<submit>Submit</submit>
+
+
+		<!-- ABOUT US -->
+
+		<aboutus>ABOUT US</aboutus>
+		<we>We Provide Best Tour Packages In Your Budget</we>
+		<our>Our tour packages offer the best travel experiences tailored to your budget. Discover amazing destinations, enjoy top-notch accommodations, and explore captivating attractions without breaking the bank. We specialize in creating unforgettable journeys that cater to your financial needs, ensuring you have an incredible and affordable vacation.</our>
+
+		<book>Book Now</book>
+
+		<competitive>Competitive Pricing</competitive>
+		<unbeatable>Unbeatable prices for your travels.</unbeatable>
+
+		<best>Best Services</best>
+		<exceptional>Exceptional travel services.</exceptional>
+
+		<worldwide>Worldwide Coverage</worldwide>
+		<comprehensive>Comprehensive global coverage for your travel needs.</comprehensive>
+
+
+		<!-- MEGA OFFER -->
+
+		<mega>Mega Offer</mega>
+		<off>30% OFF</off>
+		<the>the visitors who have previously been here</the>
+		<enjoy>Enjoy a special 30% discount for travelers who have previously visited this destination. Take advantage of this exclusive offer and save on your return trip to experience the magic once again.</enjoy>
+		<pack>Pack essentials</pack>
+		<confirm>Confirm reservations</confirm>
+		<plan>Plan activities</plan>
+
+		<!-- SIGN UP -->
+
+		<sign>Sign Up Now</sign>
+
+		<desti>Select a destination</desti>
+		<desti1>destination 1</desti1>
+		<desti2>destination 1</desti2>
+		<desti3>destination 1</desti3>
+
+		<sign>Sign Up Now</sign>
+
+
+		<!-- Our Travel Guides -->
+
+		<guides>Guides</guides>
+		<travelguides>Our Travel Guides</travelguides>
+
+		<dar>Darwin Melaya</dar>
+		<design>Designation</design>
+
+		<dan>Daniel Manahan</dan>
+		<design>Designation</design>
+
+		<riz>Riza Mae Ladesma</riz>
+		<design>Designation</design>
+
+		<bry>Bryan Hizole</bry>
+		<design>Designation</design>
+
+
+		<!-- FOOTER -->
+
+		<footer>
+			<marindu>MARINDU</marindu>
+			<span>QUE</span>
+			<marinduque>Marinduque, a tropical island paradise in the Philippines, offers pristine beaches, lush landscapes, and a rich cultural heritage. Immerse yourself in its tranquil beauty, explore vibrant coral reefs, and experience warm hospitality in this captivating destination.</marinduque>
+			<folow>Follow Us</folow>
+
+			<our>Our Services</our>
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<blog>Blog</blog>
+
+			<!-- USEFULL LINKS -->
+
+			<usefull>Usefull Links</usefull>
+			<!-- 
+			
+			<about>About</about>
+			<destination>Destination</destination>
+			<services>Services</services>
+			<package>Packages</package>
+			<guide>Guides</guide>
+			<testimonial>Testimonial</testimonial>
+			<bolg>Blog</bolg>
+
+			-->
+			
+			<!-- CONTACT US -->
+
+			<contact>Contact Us</contact>
+			<address>Apitong, Boac, Marinduque</address>
+			<number>+012 345 67890</number>
+			<email>melayadarwin@gmail.com</email>
+			<newsletter>Newsletter</newsletter>
+			<sign>Sign Up</sign>
+
+		</footer>
+
+	</content>
+</body>
